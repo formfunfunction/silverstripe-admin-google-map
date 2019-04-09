@@ -1,0 +1,22 @@
+{
+    "name": "formfunfunction/silverstripe-admin-google-map",
+    "description": "Display a Google Map in the Silverstripe CMS admin to set latitude and longitude data. Copy of abandoned WeAreKnit's package.",
+    "version": "dev-master",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/cms": "~3.0",
+        "silverstripe/framework": "~3.0"
+    },
+    "extra": {
+        "screenshots": [
+            "docs/screenshot.png"
+        ]
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jamie Morgan-Ward",
+            "email": "jamie@formfunfunction.com"
+        }
+    ]
+}
